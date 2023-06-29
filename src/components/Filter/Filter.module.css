@@ -1,3 +1,11 @@
 .input {
-    margin-top: 10px;
-  }
+  margin-top: 10px;
+ 
+}
+.filter {
+  margin-bottom: 15px;
+}
+
+.labelFilter {
+  color: #000;
+}
